@@ -1,0 +1,128 @@
+# İleri Seviye Yazılım Bilgileri
+
+## Genel Konular
+- Atomic Variables
+- Concurrency <sup> [[1]](https://medium.com/@celiktemha/neymiss-bu-concurrency-ve-parallelism-7eb53dc01177) </sup>
+- Parallelism <sup> [[1]](https://medium.com/@celiktemha/neymiss-bu-concurrency-ve-parallelism-7eb53dc01177) </sup>
+- Semaphore  <sup> [[1]](https://medium.com/@gokhansengun/semaphore-mutex-ve-spinlock-nedir-ve-ne-i%C5%9Fe-yarar-ba552a17c03) </sup>
+- Mutex  <sup> [[1]](https://medium.com/@gokhansengun/semaphore-mutex-ve-spinlock-nedir-ve-ne-i%C5%9Fe-yarar-ba552a17c03) </sup>
+- Spinlock  <sup> [[1]](https://medium.com/@gokhansengun/semaphore-mutex-ve-spinlock-nedir-ve-ne-i%C5%9Fe-yarar-ba552a17c03) </sup>
+
+## Tasarım Desenleri
+- Builder
+    - Builder
+    - Builder Facets
+    - Builder Parameter
+    - Functional Builder
+- Factories
+    - Factory Function
+    - Interface Factory
+    - Factory Generator
+    - Prototype Factory
+- Prototype
+    - Deep Copying
+    - Copy Method
+    - Copy Through Serialization
+    - Prototype Factory
+- Singleton
+    - Singleton
+    - Problems with Singleton
+    - Singleton and Dependency Inversion
+- Adapter
+    - Adapter
+    - Adapter Caching
+- Bridge
+- Composite
+    - Geometric Shapes
+    - Neural Networks
+- Decorator
+    - Multiple Aggregation
+    - Decorator
+- Façade
+- Flyweight
+- Proxy
+    - Protection Proxy
+    - Virtual Proxy
+    - Proxy vs Decorator
+- Chain of Responsibility
+    - Method Chain
+    - Command Query Separation
+    - Broker Chain
+- Command
+    - Command
+    - Undo Operations
+    - Composite Command
+    - Functional Command
+- Iterator
+    - Iteration
+    - Tree Traversal
+- Mediator
+- Memento
+    - Memento
+    - Undo and Redo
+    - Memento vs Flyweight
+- Observer
+    - Observer and Observable
+    - Property Observers
+    - Property Dependencies
+- State
+    - Classic Implementation
+    - Handmade State Machine
+    - Switch-Based State Machine
+- Strategy
+- Template Method
+    - Template Method
+    - Functional Template Method
+- Interpreter
+    - Lexing
+    - Parsing
+- Visitor
+    - Intrusive Visitor
+    - Reflective Visitor
+    - Dispatch
+    - Classic Visitor
+
+## Prensipler
+- YAGNI
+- KISS
+- DRY
+- SOLID Design Principles
+    - Single Responsibility Principle
+    - Open-Closed Principle
+    - Liskov Substitution Principle
+    - Interface Segregation Principle
+    - Dependency Inversion Principle
+
+## Diğer
+- DAO (Data Access Object) Pattern
+- ACID Nedir? <sup> [[1]](https://medium.com/cloud-and-servers/acid-nedir-53f729f2bbb2) </sup> <sup> [[2]](https://halilsafakkilic.com/acid) </sup> sup> [[3]](https://furkanalaybeg.medium.com/sqlde-transaction-ve-acid-kavram%C4%B1-nedir-4c29e200c16f) </sup>
+- CAP Teoremi Nedir? <sup> [[1]](https://medium.com/cloud-and-servers/acid-vs-cap-7764d6ebe239) </sup> <sup> [[2]](https://medium.com/cloud-and-servers/cap-teoremi-nedir-8673e71c10fc) </sup> <sup> [[3]](https://barisvelioglu.net/cap-teorem-nedir-53557407bdef) </sup> <sup> [[4]](http://cagataykiziltan.net/cap-teoremi-acid-rdbms-ve-nosql-cozumleri-iliskisi/) </sup> <sup> [[5]](http://www.abdullahkise.com/2017/01/nosql-dunyas-3-cap-teoremi.html) </sup>
+- Eventual consistency <sup> [[1]](https://en.wikipedia.org/wiki/Eventual_consistency) </sup> <sup> [[2]](https://medium.com/cloud-and-servers/acid-vs-cap-7764d6ebe239) </sup>
+- Deadlock Nedir?
+- Database Sharding Nedir? <sup> [[1]](https://barisvelioglu.net/database-sharding-nedir-6605a1986b27) </sup>
+- Data Replication Nedir?
+- Tasarım Deseni Nedir? (GOF Design Patterns)
+- Domain Driven Design Nedir?
+- GraphQL Nedir?
+- Test Driven Development Nedir?
+- Container Teknolojileri Nelerdir?
+  - Docker
+  - rkt
+  - LXC
+- Horizontal Scaling ve Vertical Scaling Nedir?
+- Message Broker Nedir?
+  - RabbitMQ
+  - Kafka
+- Test
+  - Unit Testing
+  - Integration Testing
+  - Functional Testing
+- Mimari Tasarım Desenleri
+  - Monolothic Apps
+  - Microservices
+  - SOA
+  - CQRS and Event Sourcing
+  - Serverless
+- Search Engines
+  - Elastic Search
+  - Solr

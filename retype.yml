@@ -1,0 +1,18 @@
+input: .
+output: .retype
+url: "google.com"
+branding:
+  title: IceStacks
+#  label: Docs
+links:
+- text: Github
+  link: https://github.com/IceStacks
+  target: blank
+- text: ŞM
+  link: https://www.sakirmehmetoglu.com.tr
+  target: blank
+footer:
+  copyright: "IceStacks Müfredatı 🥰"
+server:
+  watch:
+    mode: memory
